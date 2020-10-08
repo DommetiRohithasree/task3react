@@ -1,0 +1,21 @@
+{
+  "details": [
+    {
+      "Card": {
+        "name": " Ram manohar",
+        "email": "manohar.mech312@gmail.com",
+        "mobile": 7032897600,
+        "des": "student"
+      },
+      "career": "I want to become an Devloper"
+    },
+    {
+      "Card": {
+        "name": " manohar",
+        "email": "manohar.mech312@gmail.com",
+        "mobile": 9490232790,
+        "des": "student"
+      },
+      "career": "I want to become an Art."
+    }
+}
